@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "459628958728",
+    "project_id": "interview-b2c73",
+    "storage_bucket": "interview-b2c73.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459628958728:android:47be8cd005daf596e46dbd",
+        "android_client_info": {
+          "package_name": "com.example.task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDDy-E4ZFrriCwiMEMzJ0q9A99wDG_pJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

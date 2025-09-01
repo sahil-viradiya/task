@@ -1,0 +1,39 @@
+class ConstText {
+  static const String appName = "Task";
+  static const String appVersion = "1.0.0";
+  static const String carLoan = "Car Loan";
+  static const String carInsurance = "Car Insurance";
+  static const String tutorialVideos = "Tutorial Videos";
+  static const String rulesAndRegulations = "Rules & Regulations";
+  static const String searchBookingHint = "Search by booking ID...";
+  static const String infoNote = "Please complete your profile and add at least one vehicle and one driver in order to take a booking.";
+  static const String addDriver = "Add Driver";
+  static const String addVehicle = "Add Vehicle";
+  static const String personalInfo = "Personal Information";
+  static const String setProfilePic = "Set Profile Pic";
+  static const String addService = "Add Service";
+  static const String clickProfile = "Click Profile";
+  static const String manageVehicle = "Manage Vehicle";
+  static const String manageDriver = "Manage Driver";
+  static const String manageBooking = "Manage Booking";
+  static const String addButton = "Add Button";
+  static const String addDetails = "Add Details";
+  static const String submit = "Submit";
+  static const String update = "Update";
+  static const String bookVehicle = "Book Vehicle";
+  static const String noVehicleAvailable = "There are no free vehicles available at the moment.";
+  static const String error = "Error";
+  static const String retry = "Retry";
+  static const String somethingWentWrong = "Something went wrong";
+  static const String loading = "Loading";
+  static const String noData = "No Data";
+  static const String alerts = "Alerts";
+  static const String help = "Help";
+  static const String bookings = "Bookings";
+  static const String freeVehicles = "Free Vehicles";
+  static const String market = "Market";
+  static const String myBookings = "My Bookings";
+  static const String chat = "Chat";
+  static const String profile = "Profile";
+
+}
