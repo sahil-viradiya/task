@@ -45,7 +45,6 @@ dependencies:
   talker: any
   responsive_framework: ^1.5.1
   flutter_svg: ^2.2.0
-  cached_network_image: ^3.4.1
   path_drawing: ^1.0.1
   dotted_border: ^3.1.0
   bottom_navbar_with_indicator: ^0.0.9
